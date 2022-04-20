@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Blocky</string>
+
+    <!-- Buttons -->
+    <string name="button_back">See city board</string>
+    <string name="button_start">Start</string>
+    <string name="button_restart">Restart</string>
+
+    <!-- Metrics -->
+    <string name="metric_financial">Finance</string>
+    <string name="metric_health">Health</string>
+    <string name="metric_knowledge">Knowledge</string>
+    <string name="metric_population">Population</string>
+    <string name="metric_safety">Safety</string>
+
+    <!-- Blocks -->
+    <string name="block_empty">Empty Block</string>
+    <string name="block_school">School Block</string>
+    <string name="block_university">University Block</string>
+    <string name="block_mall">Mall Block</string>
+    <string name="block_factory">Factory Block</string>
+    <string name="block_it_company">IT Company Block</string>
+    <string name="block_emergency">Emergency Block</string>
+    <string name="block_hospital">Hospital Block</string>
+    <string name="block_house">House Block</string>
+    <string name="block_apartment">Apartment Block</string>
+    <string name="block_police">Police Station Block</string>
+    <string name="block_fire">Fire Station Block</string>
+
+    <!-- Descriptions -->
+    <string name="description_time_icon">time icon</string>
+    <string name="description_time_label">time label</string>
+    <string name="description_time_year">game year</string>
+
+    <!-- Messages -->
+    <string name="message_not_enough_money">You don\'t have enough money</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_start">
+        You are the mayor of `Blocky` town
+        \n
+        Invest town budget to build blocks!
+        \n
+        \n
+        The timer shows your remaining time until end of the month
+        \n
+        Every month budget will decrease to pay town costs
+        \n
+        You will earn money multiple times in a month
+    </string>
+    <string name="dialog_lost">
+        You lost the game
+        \n
+        \n
+        Try investing in multiple fields and control your population needs for safety and health
+    </string>
+    <string name="dialog_won">
+        You won
+        \n\n
+        You are the best mayor
+        \n
+        City is safe and people are happy
+    </string>
+</resources>
